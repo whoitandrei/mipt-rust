@@ -4,6 +4,8 @@ Welcome to the Rust Programming Language course!
 
 _Moscow Institute of Technology, spring 2022. Lecturer [Alexander Stanovoy](https://gitlab.com/alex.stanovoy)._
 
+Original repository - https://gitlab.com/alex.stanovoy/mipt-rust
+
 ## Prerequisites
 
 - Solid knowledge of C++, including C++20 standard.
